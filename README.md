@@ -1,4 +1,4 @@
-# Time Series Smoothings
+# Real-Time Smoothings
 
 This repository contains Python classes for calculating time series smoothings (Moving Averages and Exponential Moving Averages) in real time. The data is stored as `(timestamp, value)` tuples in a deque, allowing for efficient calculation and time-window-based operations.
 
